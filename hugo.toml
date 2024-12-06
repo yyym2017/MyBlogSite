@@ -1,4 +1,31 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = "https://hugotex.vercel.app/"
+title = "Less的博客空间"
+languageCode = "zh_cn"
+DefaultContentLanguage = "zh_cn"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = 'HugoTeX'
+
+[pagination]
+  pagerSize = 10
+
+[Params.author]
+  name = "Less"
+  abstract = """
+ choose !!!
+  """
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "paraiso-dark"
+
+[Params]
+  darkmode = true

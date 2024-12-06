@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/my-first-post/</loc>
+    <loc>https://hugotex.vercel.app/</loc>
     <lastmod>2024-12-06T00:08:40+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://hugotex.vercel.app/posts/2/</loc>
     <lastmod>2024-12-06T00:08:40+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://hugotex.vercel.app/posts/3/</loc>
     <lastmod>2024-12-06T00:08:40+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://hugotex.vercel.app/posts/4/</loc>
+    <lastmod>2024-12-06T00:08:40+08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://hugotex.vercel.app/posts/5/</loc>
+    <lastmod>2024-12-06T00:08:40+08:00</lastmod>
+  </url><url>
+    <loc>https://hugotex.vercel.app/posts/</loc>
+    <lastmod>2024-12-06T00:08:40+08:00</lastmod>
+  </url><url>
+    <loc>https://hugotex.vercel.app/posts/my-first-post/</loc>
+    <lastmod>2024-12-06T00:08:40+08:00</lastmod>
+  </url><url>
+    <loc>https://hugotex.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://hugotex.vercel.app/series/</loc>
+  </url><url>
+    <loc>https://hugotex.vercel.app/tags/</loc>
   </url>
 </urlset>
