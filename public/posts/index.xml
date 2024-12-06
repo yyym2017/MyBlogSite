@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Less的博客空间</title>
-    <link>https://hugotex.vercel.app/posts/</link>
+    <link>https://yyym2017.github.io/MyBlogSite/posts/</link>
     <description>Recent content in Posts on Less的博客空间</description>
     <generator>Hugo</generator>
     <language>zh_cn</language>
     <lastBuildDate>Fri, 06 Dec 2024 00:08:40 +0800</lastBuildDate>
-    <atom:link href="https://hugotex.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yyym2017.github.io/MyBlogSite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://hugotex.vercel.app/posts/2/</link>
+      <link>https://yyym2017.github.io/MyBlogSite/posts/2/</link>
       <pubDate>Fri, 06 Dec 2024 00:08:40 +0800</pubDate>
-      <guid>https://hugotex.vercel.app/posts/2/</guid>
+      <guid>https://yyym2017.github.io/MyBlogSite/posts/2/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://hugotex.vercel.app/posts/3/</link>
+      <link>https://yyym2017.github.io/MyBlogSite/posts/3/</link>
       <pubDate>Fri, 06 Dec 2024 00:08:40 +0800</pubDate>
-      <guid>https://hugotex.vercel.app/posts/3/</guid>
+      <guid>https://yyym2017.github.io/MyBlogSite/posts/3/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://hugotex.vercel.app/posts/4/</link>
+      <link>https://yyym2017.github.io/MyBlogSite/posts/4/</link>
       <pubDate>Fri, 06 Dec 2024 00:08:40 +0800</pubDate>
-      <guid>https://hugotex.vercel.app/posts/4/</guid>
+      <guid>https://yyym2017.github.io/MyBlogSite/posts/4/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://hugotex.vercel.app/posts/5/</link>
+      <link>https://yyym2017.github.io/MyBlogSite/posts/5/</link>
       <pubDate>Fri, 06 Dec 2024 00:08:40 +0800</pubDate>
-      <guid>https://hugotex.vercel.app/posts/5/</guid>
+      <guid>https://yyym2017.github.io/MyBlogSite/posts/5/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>记第一次尝试</title>
-      <link>https://hugotex.vercel.app/posts/my-first-post/</link>
+      <link>https://yyym2017.github.io/MyBlogSite/posts/my-first-post/</link>
       <pubDate>Fri, 06 Dec 2024 00:08:40 +0800</pubDate>
-      <guid>https://hugotex.vercel.app/posts/my-first-post/</guid>
+      <guid>https://yyym2017.github.io/MyBlogSite/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>

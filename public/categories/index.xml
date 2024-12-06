@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Less的博客空间</title>
-    <link>https://hugotex.vercel.app/categories/</link>
+    <link>https://yyym2017.github.io/MyBlogSite/categories/</link>
     <description>Recent content in Categories on Less的博客空间</description>
     <generator>Hugo</generator>
     <language>zh_cn</language>
-    <atom:link href="https://hugotex.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yyym2017.github.io/MyBlogSite/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
