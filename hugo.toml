@@ -4,7 +4,7 @@ languageCode = "zh_cn"
 DefaultContentLanguage = "zh_cn"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-theme = 'HugoTeX'
+theme = 'hugotex'
 
 [pagination]
   pagerSize = 10
